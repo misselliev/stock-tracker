@@ -1,24 +1,74 @@
-# README
+![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 💻 Dulce's Stock Tracker
 
-Things you may want to cover:
+Responsive web application to help you keep a track of your stocks. :chart: 
 
-* Ruby version
+![alt text](docs/home.png)
+![alt text](docs/projects.png)
 
-* System dependencies
+Users can:
+- Sign up, login and logout.
+- Edit their profile.
+- Track up to 10 stocks per user. They'll be displayed at their profile page.
+- Search for stocks, add and remove from their portfolio.
+- Look for friends or other users, by name or email.
+- View the stocks' portfolio of their friends to get investing ideas.
 
-* Configuration
+## ✨ Live Demo
 
-* Database creation
+You can look at it [here](https://dulce-stock-tracker.herokuapp.com/).
 
-* Database initialization
 
-* How to run the test suite
+## 🚀 Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple example steps.
 
-* Deployment instructions
 
-* ...
+### Clone
+
+```sh
+git clone git@github.com:misselliev/stock-tracker.git
+cd stock-tracker
+```
+
+### Install
+
+```sh
+bundle install 
+```
+
+### Usage
+
+```sh
+rails server
+```
+## :pencil2: Todo
+- Tests to be added.
+
+## Author
+
+👤 Elizabeth Villalejos
+
+- [Github](https://github.com/misselliev)
+- [Linkedin](https://linkedin.com/ellievillalejos)
+- [Dev.to](https://dev.to/misselliev)
+- [Twitter](https://twitter.com/miss_elliev/)
+- [Instagram](https://www.instagram.com/miss_elliev/)
+- [Email](mailto:elizabeth.villalejos@gmail.com?subject=Website%20Inquiry)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+> “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
+
