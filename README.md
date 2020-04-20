@@ -3,7 +3,7 @@
 
 # 💻 Dulce's Stock Tracker
 
-Responsive web application to help you keep a track of your stocks. :chart:.
+Responsive web application to help you keep a track of your stocks :chart:.
 Built with Rails 6 and Ruby 2.7.0.
 
 ![alt text](docs/home.png)
