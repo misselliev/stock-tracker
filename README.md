@@ -6,8 +6,8 @@
 Responsive web application to help you keep a track of your stocks :chart:.
 Built with Rails 6 and Ruby 2.7.0.
 
-![Welcome page](docs/home.png)
-![Stocks page](docs/stocks.png)
+![Welcome page](docs/welcome_page.png)
+![Stocks page](docs/stocks_page.png)
 ![Friends page](docs/friends.png)
 
 Users can:
